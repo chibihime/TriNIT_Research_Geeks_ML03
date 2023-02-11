@@ -1,5 +1,4 @@
 # TriNIT_Research_Geeks_ML03
-# TRINIT_ResearchGeeks_ML03
 Tri_NIT Hackathon ML03
 
 # Team:ResearchGeeks 
