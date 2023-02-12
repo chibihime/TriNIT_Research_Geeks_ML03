@@ -6,7 +6,7 @@ Tri_NIT Hackathon ML03
 ## Crop Prediction:
 A web-based application powered by machine learning to recommend crop variety and also predict crop yeild.
 
-The system aims to help farmers to cultivate proper crop for better yeild production based on predictive analysis of the market also. 
+The system aims to help farmers to cultivate proper crop for better yield production based on predictive analysis of the market also. 
 
 For accurate prediction we use multiple features to train our model some of them being:
 * soil composition
