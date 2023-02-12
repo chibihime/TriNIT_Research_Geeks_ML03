@@ -40,6 +40,7 @@ Device should support any one of the popular browsers (Chrome, Firefox, Safari, 
 
 ## Specifications:
 * TOTAL 2 ANNs will be implemented.
+* Bootstrap used for website. 
 
 ### RECOMMENDATION NETWORK 1: 
 INPUT - NPK values, Rainfall, Temp 
